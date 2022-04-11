@@ -131,3 +131,15 @@ const PostSchema = mongoose.Schema({
 
 module.exports = mongoose.model("Posts", PostSchema);
 ```
+
+---
+
+### MondoDB 저장된 데이터
+![데이터베이스](https://user-images.githubusercontent.com/83106932/162733418-d731566b-2aeb-4cdc-9e71-90fbaa0360d4.png)
+
+---
+
+### codepen으로 데이터 불러오기
+![codepen데이터불러기](https://user-images.githubusercontent.com/83106932/162733804-6fe36ed4-5c78-46fb-b3d2-f4de9232ebe3.png)
+
+
